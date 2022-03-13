@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on my [GitHub Pages blog](https://statushat.github.io/)
-- 🌱 I’m currently learning git, markdown and jekyll
+- 🌱 I’m currently learning git, markdown, python and jekyll
 
 <!--
 - 👯 I’m looking to collaborate on ...
